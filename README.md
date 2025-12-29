@@ -20,11 +20,11 @@ The tasks focus on strengthening Python fundamentals such as functions, loops, c
 
 Key Features:
 
-> Uses separate functions for each operation
+-> Uses separate functions for each operation
 
-> Takes user input for numbers and operation choice
+-> Takes user input for numbers and operation choice
 
-> Handles division by zero errors gracefully
+-> Handles division by zero errors gracefully
 
 Concepts Used:
 
@@ -44,11 +44,11 @@ Concepts Used:
 
 Key Features:
 
-> Random number generation
+-> Random number generation
 
-> Limited number of attempts
+-> Limited number of attempts
 
-> Feedback for each guess (Too High / Too Low)
+-> Feedback for each guess (Too High / Too Low)
 
 Concepts Used:
 
@@ -66,11 +66,11 @@ Concepts Used:
 
 Key Features:
 
-> Reads file content
+-> Reads file content
 
-> Counts words accurately
+-> Counts words accurately
 
-> Handles file not found errors
+-> Handles file not found errors
 
 Concepts Used:
 
