@@ -28,13 +28,13 @@ Key Features:
 
 Concepts Used:
 
-# Functions
+~ Functions
 
-# Conditional statements
+~ Conditional statements
 
-# User input
+~ User input
 
-# Error handling
+~ Error handling
 
 📄 File: calculator.py
 
@@ -52,11 +52,11 @@ Key Features:
 
 Concepts Used:
 
-# random module
+~ random module
 
-# Loops
+~ Loops
 
-# Conditional logic
+~ Conditional logic
 
 📄 File: number_guessing_game.py
 
@@ -74,11 +74,11 @@ Key Features:
 
 Concepts Used:
 
-# File handling
+~ File handling
 
-# String manipulation
+~ String manipulation
 
-# Exception handling
+~ Exception handling
 
 📄 File: word_counter.py
 
